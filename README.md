@@ -9,7 +9,11 @@ To meet the theme I came up with a game in which the player needs to fuel a fire
 
 This project allowed me to play with several features in Unity that I wanted more experience with.
 Among these were:
--2D particle effects
--2D player movement scripts
--Object interaction and physics
--Producing HTML5 an build of a Unity game
+	2D particle effects
+	2D player movement scripts
+	Object interaction and physics
+	Producing HTML5 an build of a Unity game
+
+
+Several features had to be cut due to time constraints. There are no enemies for instance.
+A simple day/night cycle was fully programmed and the script is uploaded, though it is not used in the full build.
